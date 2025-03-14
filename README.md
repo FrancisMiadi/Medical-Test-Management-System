@@ -23,6 +23,11 @@ This is a **university project** for implementing a **Medical Test Management Sy
 **6. Export data:** to a CSV file.  
 **7. Import data:** from a CSV file.
 
+## 🤝 Project Team
+-**Francis Miadi**  
+-Miar Taweel  
+
+
 ## 🌐 Contact  
 **For inquiries, reach out via:**  
 - **Email:** *francismiadi0@gmail.com*  
