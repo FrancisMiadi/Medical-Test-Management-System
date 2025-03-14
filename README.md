@@ -24,6 +24,6 @@ This is a **university project** for implementing a **Medical Test Management Sy
 **7. Import data:** from a CSV file.
 
 ## 🌐 Contact  
-For inquiries, reach out via:  
+**For inquiries, reach out via:**  
 - **Email:** *francismiadi0@gmail.com*  
 - **GitHub:** *FrancisMiadi*  
