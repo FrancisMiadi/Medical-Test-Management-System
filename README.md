@@ -1,7 +1,7 @@
 # 🏥 Medical Test Management System *(OOP in Python)*
 
 ## 📌 Overview  
-This is a **university project** for implementing a **Medical Test Management System** using object oriented programming in python.The system is able to store, manage, and retrieve medical test data for individual patients.  
+This is a **university project** for implementing a **Medical Test Management System** using **object oriented programming in python**.The system is able to store, manage, and retrieve medical test data for individual patients.  
 
 
 ## 💡 Features  
