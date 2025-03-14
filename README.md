@@ -1,8 +1,7 @@
 # 🏥 Medical Test Management System  
 
 ## 📌 Overview  
-This is a **university project** for implementing a **Medical Test Management System**.  
-The system efficiently stores, manages, and retrieves medical test data for individual patients.  
+This is a **university project** for implementing a **Medical Test Management System**.The system is able to store, manage, and retrieve medical test data for individual patients.  
 
 
 ## 💡 Features  
@@ -16,13 +15,13 @@ The system efficiently stores, manages, and retrieves medical test data for indi
 - **User-Friendly Menu:** Interactive options for ease of use.
 
 ## 🛠️ System Functionality  
-1. **Add new test types** to `medicalTest.txt`.  
-2. **Enter new test results** into `medicalRecord.txt`.  
-3. **Update patient test records**, including test values, dates, and statuses.  
-4. **Filter and search tests** based on multiple criteria.  
-5. **Generate textual reports** for test values and turnaround times.  
-6. **Export data** to a CSV file.  
-7. **Import data** from a CSV file.
+**1. Add new test types:** to `medicalTest.txt`.  
+**2. Enter new test results:** into `medicalRecord.txt`.  
+**3. Update patient test records:** including test values, dates, and statuses.  
+**4. Filter and search tests:** based on multiple criteria.  
+**5. Generate textual reports:** for test values and turnaround times.  
+**6. Export data:** to a CSV file.  
+**7. Import data:** from a CSV file.
 
 ## 🌐 Contact  
 For inquiries, reach out via:  
