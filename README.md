@@ -24,8 +24,8 @@ This is a **university project** for implementing a **Medical Test Management Sy
 **7. Import data:** from a CSV file.
 
 ## 🤝 Project Team
--**Francis Miadi**  
--Miar Taweel  
+- **Francis Miadi**  
+- Miar Taweel  
 
 
 ## 🌐 Contact  
